@@ -1,6 +1,6 @@
 ![Portada](https://media.licdn.com/dms/image/v2/D4E16AQG9CPgAxU14JA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1665716193287?e=1730937600&v=beta&t=zPreYjT1FhYvxe17Vk00aFk6hbq1lWBNZ8Uw9Zna5M8)
 
-# 👋 ¡Hola! Soy David Garzón 
+# 👋 ¡Hola! Soy David Garzón ![verificado](https://github.com/David-Garzon-07/David-Garzon-07/blob/main/verificado.png?)
 
 profesional versátil que combina habilidades en economía y desarrollo web. Tengo experiencia en la gestión y administracion eficiente de recursos financieros y en el desarrollo de aplicaciones. Mi enfoque está en participar en proyectos innovadores que impulsen el crecimiento sostenible y la transformación digital en las empresas.
 
