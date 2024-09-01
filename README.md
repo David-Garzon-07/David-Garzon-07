@@ -16,10 +16,7 @@ profesional versátil que combina habilidades en economía y desarrollo web. Ten
   - Colaboración con diseñadores y backend developers para integrar APIs.
 
 ## 🛠️ Habilidades Técnicas
-- ![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5) ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-- ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
-- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+- ![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5) ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 
 ## 🎓 Educación
 
@@ -45,6 +42,5 @@ Estoy en constante aprendizaje y busco oportunidades para mejorar mis habilidade
 
 [![Correo](https://img.shields.io/badge/Gmail-David%20Garzon-D14836?style=for-the-badge&logo=gmail)]()
 </br>
-[![LinkedI](https://img.shields.io/badge/linkedin-David%20Garzon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](www.linkedin.com/in/davidgarzong)
-</br>
-![]()
+[![LinkedIn](https://img.shields.io/badge/linkedin-David%20Garzon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF
+)](https://www.linkedin.com/in/davidgarzong)
