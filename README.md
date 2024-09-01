@@ -45,6 +45,6 @@ Estoy en constante aprendizaje y busco oportunidades para mejorar mis habilidade
 
 [![Correo](https://img.shields.io/badge/Gmail-David%20Garzon-D14836?style=for-the-badge&logo=gmail)]()
 </br>
-[![LinkedI](https://img.shields.io/badge/linkedin-David%20Garzon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](www.linkedin.com/in/david-steven-garzon-garzon)
+[![LinkedI](https://img.shields.io/badge/linkedin-David%20Garzon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](www.linkedin.com/in/davidgarzong)
 </br>
 ![]()
