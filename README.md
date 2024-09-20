@@ -43,4 +43,7 @@ Estoy en constante aprendizaje y busco oportunidades para mejorar mis habilidade
 [![Correo](https://img.shields.io/badge/Gmail-David%20Garzon-D14836?style=for-the-badge&logo=gmail)]()
 </br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-David%20Garzon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF
-)](https://www.linkedin.com/in/davidgarzong)
+)](https://www.linkedin.com/in/davidgarzong "target='_blank'")
+</br>
+[![Web](https://img.shields.io/badge/WEB-WEB-%23002B5B?style=for-the-badge&logo=circuitverse&logoColor=white&logoSize=auto&label=Digital%20Global%20Wealth)](https://digitalglobalwealth.netlify.app/ "target='_blank'")
+</br>
